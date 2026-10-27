@@ -10,8 +10,8 @@ Optimized for performance, reliability and full compatibility with the latest Be
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Minecraft_Bedrock-1.26.52-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Protocol-2193-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Minecraft_Bedrock-1.26.60-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Protocol-2225-blue?style=for-the-badge">
 
 </div>
 
@@ -55,12 +55,6 @@ Optimized for performance, reliability and full compatibility with the latest Be
     <tr>
       <td align="center"><b>26.60</b></td>
       <td align="center"><code>2225</code></td>
-      <td align="center">Windows / Linux (<code>x86_64</code>)</td>
-      <td align="center"><img src="https://img.shields.io/badge/Upcoming-dfb317?style=flat-square" alt="Upcoming"></td>
-    </tr>
-    <tr>
-      <td align="center"><b>26.50 - 26.52</b></td>
-      <td align="center"><code>2192 - 2193</code></td>
       <td align="center">Windows / Linux (<code>x86_64</code>)</td>
       <td align="center"><img src="https://img.shields.io/badge/Supported-2ea44f?style=flat-square" alt="Supported"></td>
     </tr>
